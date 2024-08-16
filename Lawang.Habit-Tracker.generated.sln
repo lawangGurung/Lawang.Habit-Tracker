@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lawang.Habit-Tracker", "Lawang.Habit-Tracker.csproj", "{12D5F69F-6399-4CA2-A643-BBF1E4C9E7C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lawang.Habit-Tracker", "Lawang.Habit-Tracker.csproj", "{795D05C0-EA9C-4C0D-BAB8-204B222781EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12D5F69F-6399-4CA2-A643-BBF1E4C9E7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12D5F69F-6399-4CA2-A643-BBF1E4C9E7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12D5F69F-6399-4CA2-A643-BBF1E4C9E7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12D5F69F-6399-4CA2-A643-BBF1E4C9E7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795D05C0-EA9C-4C0D-BAB8-204B222781EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795D05C0-EA9C-4C0D-BAB8-204B222781EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795D05C0-EA9C-4C0D-BAB8-204B222781EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795D05C0-EA9C-4C0D-BAB8-204B222781EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
