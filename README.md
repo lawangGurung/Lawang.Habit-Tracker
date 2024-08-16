@@ -25,11 +25,12 @@ sqlite as Database.
 * #### Screen shots:
 
 * ![App Screenshot]
+![Screenshot from 2024-08-16 13-50-04](https://github.com/user-attachments/assets/950501d6-137f-4732-9d3c-49cf15e01d72)
 
 * Users can Perform CRUD function on the database.
 * Users can enter date in (dd-MM-yy) format and enter the distance (in km) ran on that day.
 
-* ![App Screenshot]
+* ![App Screenshot]![Screenshot from 2024-08-16 13-50-32](https://github.com/user-attachments/assets/c6f9a311-fa1e-4c3c-9587-7a3fece5ac83)
 
 - Data is presented to user in Table format, using the external library Spectre.Console.
 
